@@ -1,0 +1,14 @@
+{
+	"name":"Mercadinho Ponto Certo",
+	"email":"merjosé@contato.com.br",
+	"whatsapp":"7191122343",
+	"latitude":-1.323454,
+	"longitude":-2.3243542,
+	"city":"Salvador",
+	"uf":"BA",
+	"items": [
+		1,
+		2,
+		6
+	]
+}
